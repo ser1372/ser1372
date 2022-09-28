@@ -5,7 +5,7 @@
 
 
 
-Latest 
+
 
 ## Language and Tools
 
@@ -15,8 +15,12 @@ Latest
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=CSS3)
 ![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2B%2B)
 ![UE4](https://img.shields.io/badge/-UE4-090909?style=for-the-badge&logo=unrealengine)
+![SQL](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=mysql)
 
 
 
+## Follow me
+[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=Instagram)](https://www.instagram.com/chaikovskiy.sergey/)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram)](https://t.me/sergey030)
+![Linkedin](https://img.shields.io/badge/-Linkedin-090909?style=for-the-badge&logo=Linkedin)(https://www.linkedin.com/in/sergeychaikovskiy/)
 
-Follow me 
