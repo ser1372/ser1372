@@ -7,6 +7,16 @@
 
 Latest 
 
-Language and Tools
+## Language and Tools
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
+![VueJS](https://img.shields.io/badge/-VueJS-090909?style=for-the-badge&logo=Vue.js)
+![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=CSS3)
+![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2B%2B)
+![UE4](https://img.shields.io/badge/-UE4-090909?style=for-the-badge&logo=unrealengine)
+
+
+
 
 Follow me 
