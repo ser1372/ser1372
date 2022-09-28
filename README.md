@@ -22,5 +22,5 @@
 ## Follow me
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=Instagram)](https://www.instagram.com/chaikovskiy.sergey/)
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram)](https://t.me/sergey030)
-![Linkedin](https://img.shields.io/badge/-Linkedin-090909?style=for-the-badge&logo=Linkedin)(https://www.linkedin.com/in/sergeychaikovskiy/)
+[![Linkedin](https://img.shields.io/badge/-Linkedin-090909?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/sergeychaikovskiy/)
 
