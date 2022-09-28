@@ -24,3 +24,11 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram)](https://t.me/sergey030)
 [![Linkedin](https://img.shields.io/badge/-Linkedin-090909?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/sergeychaikovskiy/)
 
+
+## Statistics 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ser1372&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ser1372&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
