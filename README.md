@@ -1,7 +1,13 @@
-[![Header](https://github.com/ser1372/ser1372/blob/main/assets/download.gif)](https://ser1372.github.io/MyCV/)
+[![Header](https://github.com/ser1372/ser1372/blob/main/assets/download.gif)]([https://ser1372.github.io/MyCV/](https://ser1372.github.io/CV__ChaikovskiySergey/))
 
-## My name is Sergey. At the moment I am a 2nd year student at the State University of Telecommunications, specializing in cybersecurity. I don't have much work experience, but I have other qualitative advantages. I am a very organized, disciplined and result-oriented person with a great passion for programming and technology. In my spare time, I spend a lot of time self-programming in C++, HTML, CSS, JS, UE4. I am interested in development in the field of IT, I am willing and able to gain experience at the same time as studying.
-
+## Hi, my name is Sergey, and I'm a Full-stack developer. My stack is PHP, JS, Ajax, Vue.js, Laravel,
+  HTML and CSS. I'm passionate about learning new technologies and trying to learn something new every
+  day in the world of web development.
+  I have a little more than six months of commercial experience and during that time I've managed to
+  participate in several projects which helped me develop and improve my skills. I am confident that
+  my experience and knowledge will help me to solve problems and create high-quality products. I am
+  always ready for new challenges and try not to stop on my laurels. If you have any questions or
+  suggestions, I am always open for communication and ready to cooperate!
 
 
 
@@ -13,9 +19,10 @@
 ![VueJS](https://img.shields.io/badge/-VueJS-090909?style=for-the-badge&logo=Vue.js)
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=CSS3)
-![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2B%2B)
-![UE4](https://img.shields.io/badge/-UE4-090909?style=for-the-badge&logo=unrealengine)
+![Tailwind](https://img.shields.io/badge/-tailwind-090909?style=for-the-badge&logo=tailwind+css&gs_lcp)
 ![SQL](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=mysql)
+![PHP](https://img.shields.io/badge/-PHP-090909?style=for-the-badge&logo=php)
+![Laravel](https://img.shields.io/badge/-Laravel-090909?style=for-the-badge&logo=laravel)
 
 
 
