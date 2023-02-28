@@ -1,4 +1,4 @@
-[![Header](https://github.com/ser1372/ser1372/blob/main/assets/download.gif)]([https://ser1372.github.io/MyCV/](https://ser1372.github.io/CV__ChaikovskiySergey/))
+[![Header](https://github.com/ser1372/ser1372/blob/main/assets/download.gif)](https://ser1372.github.io/CV__ChaikovskiySergey/)
 
 ## Hi, my name is Sergey, and I'm a Full-stack developer. My stack is PHP, JS, Ajax, Vue.js, Laravel,
   HTML and CSS. I'm passionate about learning new technologies and trying to learn something new every
