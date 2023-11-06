@@ -1,18 +1,5 @@
 [![Header](https://github.com/ser1372/ser1372/blob/main/assets/download.gif)](https://ser1372.github.io/CV__ChaikovskiySergey/)
 
-## Hi, my name is Sergey, and I'm a Full-stack developer. My stack is PHP, JS, Ajax, Vue.js, Laravel,
-  HTML and CSS. I'm passionate about learning new technologies and trying to learn something new every
-  day in the world of web development.
-  I have a little more than six months of commercial experience and during that time I've managed to
-  participate in several projects which helped me develop and improve my skills. I am confident that
-  my experience and knowledge will help me to solve problems and create high-quality products. I am
-  always ready for new challenges and try not to stop on my laurels. If you have any questions or
-  suggestions, I am always open for communication and ready to cooperate!
-
-
-
-
-
 ## Language and Tools
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
