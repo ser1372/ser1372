@@ -21,7 +21,6 @@
 
 ## Statistics 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ser1372&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Metrics](https://metrics.lecoq.io/ser1372)](https://github.com/ser1372)
 
 
